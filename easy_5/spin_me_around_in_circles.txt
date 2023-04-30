@@ -1,0 +1,5 @@
+# spin_me_around_in_circles.txt
+
+The returned string will be a new string, because the String#split
+method returns an array with each element being a new string object.
+Therefore, there is no reference to the original string.
